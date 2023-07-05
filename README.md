@@ -1,1 +1,1 @@
-# terrible-website-contest-yourname
+This is a GAME SITE created by a private assignee. I dare to make a terrible site.
